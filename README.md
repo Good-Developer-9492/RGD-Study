@@ -50,5 +50,5 @@ Real Good Developer's Reading Discussion
 <!-- Link -->
 [Github Issues]: https://github.com/Good-Developer-9492/RGD-Reading/issues
 [객체 지향과 디자인 패턴]: /객체지향과%20디자인패턴
-[HTTP & Network Basic]: link-needed
-[도메인 주도 개발 시작하기]: link-needed
+[HTTP & Network Basic]: /HTTP%20&%20Network%20Basic
+[도메인 주도 개발 시작하기]: /도메인주도개발시작하기
