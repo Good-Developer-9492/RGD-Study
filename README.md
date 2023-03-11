@@ -5,13 +5,14 @@ Real Good Developer's Study Discussion
 
 ## 현재 진행중인 컨텐츠
 
-* [대규모 시스템 설계 기초] (책)
+* [리팩토링] (책)
 
 ## 현재까지 진행한 컨텐츠 리스트
 
 * [객체 지향과 디자인 패턴] (책)
 * [HTTP & Network Basic] (책)
 * [도메인 주도 개발 시작하기] (책)
+* [대규모 시스템 설계 기초] (책)
 
 ## 모임 규칙
 
@@ -55,3 +56,4 @@ Real Good Developer's Study Discussion
 [HTTP & Network Basic]: /HTTP%20&%20Network%20Basic
 [도메인 주도 개발 시작하기]: /도메인주도개발시작하기
 [대규모 시스템 설계 기초]: /대규모%20시스템%20설계%20기초
+[리팩토링]: /리팩토링
