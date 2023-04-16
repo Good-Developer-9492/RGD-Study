@@ -10,6 +10,7 @@
   * 2023년 03월 25일(토) -> Skip
   * 2023년 04월 01일(토) -> Skip
   * 2023년 04월 08일(토) -> 이해해기 힘든 이름, 중복 코드, 긴 함수
+  * 2023년 04월 15일(토) -> 긴 매개변수 목록
   
 ## 요약
 
@@ -21,14 +22,22 @@
 
 ### Section 02. 중복 코드
 
-리팩토링 01. 함수 추출하기 (Extract Function)
-리팩토링 02. 코드 분리하기 (Slide Statements)
-리팩토링 03. 메소드 올리기 (Pull Up Method)
+리팩토링 04. 함수 추출하기 (Extract Function)
+리팩토링 05. 코드 분리하기 (Slide Statements)
+리팩토링 06. 메소드 올리기 (Pull Up Method)
 
 ### Section 03. 긴 함수
 
-리팩토링 01. 임시 변수를 질의 함수로 바꾸기 (Replace Temp with Query)
-리팩토링 02. 매개변수 객체 만들기 (Introduce Parameter Object)
-리팩토링 03. 객체 통째로 넘기기 (Preserve Whole Object)
-리팩토링 04. 조건문을 다형성으로 바꾸기 (Replace Conditional with Polymorphism)
-리팩토링 05. 반복문 쪼개기 (Split Loop)
+리팩토링 07. 임시 변수를 질의 함수로 바꾸기 (Replace Temp with Query)
+리팩토링 08. 매개변수 객체 만들기 (Introduce Parameter Object)
+리팩토링 09. 객체 통째로 넘기기 (Preserve Whole Object)
+리팩토링 10. 함수를 명령으로 바꾸기
+리팩토링 11. 조건문 분해하기 (Decompose Conditional)
+리팩토링 12. 반복문 쪼개기 (Split Loop)
+리팩토링 13. 조건문을 다형성으로 바꾸기 (Replace Conditional with Polymorphism)
+
+### Section 04. 긴 매개변수 목록
+
+리팩토링 14. 매개변수를 질의 함수로 바꾸기
+리팩토링 15. 플래그 인수 제거하기
+리팩토링 16. 여러 함수를 클래스로 묶기
